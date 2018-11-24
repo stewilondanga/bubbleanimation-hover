@@ -24,13 +24,12 @@ h1 {
   color: rgba(255, 255, 255, 0.8);
 }
 
-/*.credit{
+.credit {
   text-align: center;
-  color: rgba(255,255,255,0.4);
-
+  color: rgba(255, 255, 255, 0.4);
 }
 
-.content{
+/*.content{
   padding-top: 45px;
   padding-bottom: 20px;
 }
