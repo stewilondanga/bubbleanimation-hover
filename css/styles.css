@@ -83,12 +83,11 @@ h1 {
   z-index: 10000;
 }
 
-/*.explode-circle {
-   animation: explode 0.5s forwards;
-
+.explode-circle {
+  animation: explode 0.5s forwards;
 }
 
-.desplode-circle{
+/*.desplode-circle{
    animation: desplode 0.5s forwards;
 }
 
