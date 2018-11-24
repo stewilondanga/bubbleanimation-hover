@@ -108,24 +108,24 @@ h1 {
   }
 }
 
-/*@keyframes desplode {
+@keyframes desplode {
   0% {
     width: 400px;
     height: 400px;
     margin-left: -200px;
     margin-top: -200px;
-    background-color: rgba(20, 180, 87,0.8);
+    background-color: rgba(20, 180, 87, 0.8);
   }
   100% {
     width: 0px;
     height: 0px;
     margin-left: 0px;
     margin-top: 0px;
-    background-color: rgba(129, 80, 108,0.6);
+    background-color: rgba(129, 80, 108, 0.6);
   }
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
