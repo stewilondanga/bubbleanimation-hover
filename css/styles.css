@@ -78,12 +78,12 @@ h1 {
   z-index: 100000;
 }
 
-/*.button_text_container{
-   position:relative;
-   z-index: 10000;
+.button_text_container {
+  position: relative;
+  z-index: 10000;
 }
 
-.explode-circle {
+/*.explode-circle {
    animation: explode 0.5s forwards;
 
 }
