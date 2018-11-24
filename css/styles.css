@@ -87,11 +87,11 @@ h1 {
   animation: explode 0.5s forwards;
 }
 
-/*.desplode-circle{
-   animation: desplode 0.5s forwards;
+.desplode-circle {
+  animation: desplode 0.5s forwards;
 }
 
-@keyframes explode {
+/*@keyframes explode {
   0% {
     width: 0px;
     height: 0px;
