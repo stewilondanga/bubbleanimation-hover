@@ -91,24 +91,24 @@ h1 {
   animation: desplode 0.5s forwards;
 }
 
-/*@keyframes explode {
+@keyframes explode {
   0% {
     width: 0px;
     height: 0px;
     margin-left: 0px;
     margin-top: 0px;
-    background-color: rgba(42, 53, 80,0.2);
+    background-color: rgba(42, 53, 80, 0.2);
   }
   100% {
     width: 400px;
     height: 400px;
     margin-left: -200px;
     margin-top: -200px;
-    background-color: rgba(20, 180, 87,0.8);
+    background-color: rgba(20, 180, 87, 0.8);
   }
 }
 
-@keyframes desplode {
+/*@keyframes desplode {
   0% {
     width: 400px;
     height: 400px;
